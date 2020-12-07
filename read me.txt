@@ -1,0 +1,14 @@
+===============================
+Copyright @codeguid
+===============================
+This source code provide only for 
+educational purpos
+===============================
+Username : admin
+===============================
+password : 123
+===============================
+Database include in this folder
+===============================
+Thanks.....
+===============================
